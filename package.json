@@ -1,0 +1,14 @@
+{
+  "name": "bingoware",
+  "version": "1.0.0",
+  "description": "bingoware server",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nero Porch",
+  "license": "ISC"
+}
